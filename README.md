@@ -67,15 +67,8 @@ This project focuses on predicting obesity levels using supervised machine learn
 
 ## ⚖️ Feature Selection Insight
 - Top 8 features achieved ~95% accuracy  
-- Adding more features gave minimal improvement  
+- Using different sets of features gave minimal improvement  
 - Demonstrates trade-off between performance and complexity  
-
----
-
-## 🚀 Future Improvements
-- Apply cross-validation for robustness  
-- Use SHAP for model explainability  
-- Deploy model using Streamlit or web app  
 
 ---
 
